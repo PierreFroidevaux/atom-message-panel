@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tcarlsen/atom-message-panel"
+    "url": "git://https://github.com/PierreFroidevaux/atom-message-panel"
   },
   "keywords": [
     "atom",
@@ -24,10 +24,10 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tcarlsen/atom-message-panel/issues"
+    "url": "https://github.com/PierreFroidevaux/atom-message-panel/issues"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0"
   },
-  "homepage": "https://github.com/tcarlsen/atom-message-panel"
+  "homepage": "https://github.com/PierreFroidevaux/atom-message-panel"
 }
